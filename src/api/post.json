@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Post One",
+        "slug" : "post-one",
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A corrupti sunt omnis quaerat laboriosam blanditiis suscipit, eligendi dolores, saepe tenetur voluptatibus ea officia esse et, voluptatem magni? In, quisquam porro!"
+    },
+    {
+        "title" : "Post Two",
+        "slug" : "post-two",
+        "description" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A corrupti sunt omnis quaerat laboriosam blanditiis suscipit, eligendi dolores, saepe tenetur voluptatibus ea officia esse et, voluptatem magni? In, quisquam porro!"
+    }
+]
